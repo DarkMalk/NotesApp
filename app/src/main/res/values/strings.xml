@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="new_note">Create Note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="et_error_input_blank">The field cannot be empty</string>
+    <string name="toast_error_note_not_created">The note could not be created</string>
+    <string name="toast_error_note_not_updated">The note could not be updated</string>
+    <string name="toast_success_created_note">The note has been successfully created</string>
+    <string name="dialog_btn_accept">Accept</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="info_note">Info Note</string>
+    <string name="date">Date</string>
+    <string name="dialog_desc_delete_note">You are about to delete this note, are you sure to continue?</string>
+    <string name="dialog_desc_update_note">You are about to modify the information in the note, are you sure to continue?</string>
+    <string name="toast_success_updated">It has been successfully updated</string>
+    <string name="toast_delete_note">The note has been successfully deleted</string>
+    <string name="toast_cancel_delete_note">The note has not been deleted</string>
+</resources>
